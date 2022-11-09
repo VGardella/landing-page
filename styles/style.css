@@ -21,6 +21,10 @@ a{
     align-items: center;
 }
 
+.header img{
+    padding: 0 100px;
+}
+
 .links{
     color: #E5E7EB;
     padding: 10px;
@@ -36,7 +40,7 @@ a{
 .principal{
     display: flex;
     justify-content: center;
-    padding: 10% 20%;
+    padding: 8% 20%;
     background-color: #1F2937;
 }
 
